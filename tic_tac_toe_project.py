@@ -1,4 +1,4 @@
-
+# program created by nick aka mr pa
 from random import randrange
 
 
